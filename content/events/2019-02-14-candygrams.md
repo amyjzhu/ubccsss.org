@@ -1,6 +1,6 @@
 ---
 title: "CSSS: Valentine's Candygrams"
-date: 2019-01-30
+date: 2019-01-31
 start_date: 2019-02-14T00:00:00.000Z
 end_date: 2019-02-14T23:59:00.000Z
 categories: [Event]
